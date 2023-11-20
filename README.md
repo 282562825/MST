@@ -1,2 +1,2 @@
 # MST
-python code
+python code for the MST project
